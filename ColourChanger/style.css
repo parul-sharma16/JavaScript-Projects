@@ -1,0 +1,27 @@
+.cont{
+    margin: 100px auto 100px;
+    text-align: center;
+}
+.btn{
+    margin-right: 10px;
+    padding: 60px 90px;
+    border-radius: 100px;
+    display: inline-block;
+    border: solid black 2px;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#red{
+    background-color: red;
+}
+
+#palevioletred{
+    background-color: palevioletred;
+}
