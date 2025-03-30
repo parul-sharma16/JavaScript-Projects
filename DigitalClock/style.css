@@ -1,0 +1,13 @@
+.bg{
+    background-color: black;
+    color: white;
+    margin: 300px auto 100px;
+    text-align: center;
+}
+.clock{
+    display: inline-block;
+    background-color: rgb(9, 116, 103);
+    margin-top: -5px;
+    padding: 30px 80px;
+    border-radius: 10px;
+}
