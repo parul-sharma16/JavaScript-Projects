@@ -3,3 +3,4 @@
 
 ## Have a look:
 [Colour Changer](https://parul-sharma16.github.io/JavaScript-Projects/ColourChanger/)
+[BMI Calculator](https://parul-sharma16.github.io/JavaScript-Projects/BMI/)
