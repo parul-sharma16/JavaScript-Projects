@@ -36,7 +36,7 @@ function validateGuess(val){
         msg.innerHTML = "Invalid value!";
         endGame();
     }
-    else if(rem_val==1){
+    else if(rem_val==1 && guess!=num){
         msg.innerHTML = `Game Over! Answer was ${num}!`;
         prev.innerHTML +=`${guess}  `;
         rem.innerHTML = --rem_val;
