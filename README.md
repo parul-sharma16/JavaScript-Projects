@@ -4,4 +4,5 @@
 ## Have a look:
 [Colour Changer](https://parul-sharma16.github.io/JavaScript-Projects/ColourChanger/)<br><br>
 [BMI Calculator](https://parul-sharma16.github.io/JavaScript-Projects/BMI/)<br><br>
-[Digital Clock](https://parul-sharma16.github.io/JavaScript-Projects/DigitalClock/)
+[Digital Clock](https://parul-sharma16.github.io/JavaScript-Projects/DigitalClock/)<br><br>
+[Guess the Number](https://parul-sharma16.github.io/JavaScript-Projects/GuessNumber/)<br><br>
